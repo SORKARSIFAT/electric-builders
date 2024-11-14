@@ -1,0 +1,13 @@
+@media screen and (max-width:800px)  {
+    .navbar-container{
+        flex-direction: column;
+        align-items: center;
+        
+     } 
+     .navbar-container>div{
+        margin-top: 12px;
+     }
+}
+@media screen and (max-width:500px)  {
+   
+}
