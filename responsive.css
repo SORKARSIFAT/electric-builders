@@ -8,6 +8,15 @@
         margin-top: 12px;
      }
 }
-@media screen and (max-width:500px)  {
-   
+@media screen and (max-width:500px) {
+   .navbar-container{
+      flex-direction: row;
+     
+   }
+   .nav-menu{
+      display: block;
+   }
+  .nav-items{
+   display: none;
+  }
 }
