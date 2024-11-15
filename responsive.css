@@ -7,6 +7,9 @@
      .navbar-container>div{
         margin-top: 12px;
      }
+     .fifty-off{
+      left: 18%;
+     }
 }
 @media screen and (max-width:500px) {
    .navbar-container{
@@ -19,4 +22,15 @@
   .nav-items{
    display: none;
   }
+  .banner-main{
+   flex-direction: column;
+  }
+  .banner-childs{
+   width: 100%;
+  }
+  .fifty-off{
+   left: 20%;
+  }
 }
+
+
